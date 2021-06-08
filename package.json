@@ -1,0 +1,21 @@
+{
+  "name": "amvc",
+  "version": "1.0.0",
+  "description": "### Created in 2 Hours on 6.8.21",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html team/index.html about/index.html --no-cache --out-dir docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMVC-Gaming/amvc-gaming.github.io.git"
+  },
+  "keywords": [],
+  "author": "AMVC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMVC-Gaming/amvc-gaming.github.io/issues"
+  },
+  "homepage": "https://amvc-gaming.github.io/"
+}
